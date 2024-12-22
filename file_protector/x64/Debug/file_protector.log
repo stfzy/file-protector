@@ -1,0 +1,7 @@
+﻿  Building 'file_protector' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  main.cpp
+  file_protector.vcxproj -> E:\douyin\code\file_protector\x64\Debug\file_protector.sys
+  Inf2Cat task was skipped as there were no inf files to process
+  
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
